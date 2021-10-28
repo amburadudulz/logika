@@ -1,0 +1,2 @@
+# logika
+kumpulan logika sederhana
