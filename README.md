@@ -1,2 +1,2 @@
 # logika
-kumpulan logika sederhana
+kumpulan logika sederhana, kalo salah penamaannya ya maap
